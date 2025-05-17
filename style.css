@@ -2,3 +2,27 @@ body{
     font-family: "Helvetica",sans-serif;
     background-color: #283739;
 }
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    background-attachment: #0d1117;
+    justify-content: center;
+    border: 5px;
+    align-items: center;
+
+}
+
+.value{
+    background-attachment: transparent;
+    border: none;
+    padding: 10px;
+    color: white;
+    display: flex;
+    position: relative;
+    gap: 5px;
+    cursor: pointer ;
+    border-radius: 4p;
+    margin: 0 10px 10px;
+}

@@ -81,3 +81,12 @@ body{
 a{
     text-decoration: none;
 }
+
+.logo{
+    display: flex;
+    margin-right: 15px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: antiquewhite;
+}
